@@ -1,0 +1,21 @@
+body {
+  width: 60%;
+  border: 10px solid gray;
+  margin: 0 auto;
+  padding: 25px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+  color: navy;
+  font-weight: 700;
+}
+
+h3 {
+  color: #007893;
+}
+
+.firstp {
+  border-left: 2px solid gray;
+  padding-left: 5px;
+}
